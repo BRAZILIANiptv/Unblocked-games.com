@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Subway Surfers</title>
+<link rel = "icon" href="IMG_0330.jpeg"
+   type = "jpeg">
+<link rel="IMG_0330" sizes="152x152" href="IMG_0330">
+<meta content="UNBLOCKEDgamesGITHUB" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="https://github.githubassets.com/favicons/favicon.png">
+<!-- CSS -->
+<link rel="stylesheet" href="/files/css/game.css" />
+</head>
+<body>
+<a href="/" target="_top" class="neave">
+<span class="disc"></span>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 512 512">
+<path fill="#fff" d="M361 360.95L191 290.5v57.1l-40 16.6V151.05l170 70.3v-57.2l1-.4.1-.05 38.9-15.9"></path>
+</a>
+<section class="content">
+<iframe sandbox="allow-scripts allow-same-origin" scrolling="no"  frameborder="0" src="https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210409/jj12/index.html" style="border-radius: 1%; height: 720px; width: 1080px"></iframe>
+  <style type="text/css">
+  /* o truque do fullscreen é fazer o html e body ocuparem 100% da janela e o elemento filho ocupar 100% também */
+    html, body
+    {  
+      width: 100%;
+      height: 100%;      
+       margin: 0px;
+    }
+    #container
+    { 
+      width: 100%; 
+      height: 100%; 
+</div>
+</body>
+</html>
